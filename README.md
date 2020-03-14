@@ -43,7 +43,10 @@ https://github.com/Blankj/awesome-java-leetcode
 计算机图书整理 https://github.com/iamshuaidi/CS-Book
 
 11.Java面试
-java面试知识 https://github.com/CyC2018/CS-Notes
+java面试知识 https://github.com/CyC2018/
+
+欢迎关注我的公众号：剑小新
+![](https://img.jianxiaoxin.com/2020/03/11/6929bc149c37c4f366affdf75a6324b7.jpg)
 
 
 
